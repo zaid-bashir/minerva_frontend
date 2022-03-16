@@ -6,11 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## How To Run Project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step1: Open Project in VScode or any IDE like Androiud Studio
+Step2: Open Terminal and fire command "flutter pub get" to get dependencies.
+Step3: Once dependencies are installed the fire command "flutter run -d chrome" to execute project on Google Chrome Browser.
+Note : API Services are already deployed on Live Server, no need to start the server.
+Note : For confirmation I will also forward Backend Repository Link.
